@@ -1,0 +1,3 @@
+(MINUS (IF 1 3) (MINUS (MINUS -5 1) 1))
+3
+sum
