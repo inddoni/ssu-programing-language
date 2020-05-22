@@ -1,0 +1,4 @@
+(MINUS 5 (IF (NEG -5) 5))
+(TIMES 2 5)
+(ADD 1 2)
+1

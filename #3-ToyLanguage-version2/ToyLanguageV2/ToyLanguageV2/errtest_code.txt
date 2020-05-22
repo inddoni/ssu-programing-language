@@ -1,0 +1,17 @@
+-123
+2
+ASDF
+(IF 0 3)
+(IF -1 4)
+-1.0
+(IF 2 7)
+(MINUS -1.0 0)
+(MINUS 2 1))
+(IF 32 --3)
+(MINUS 3 4)
+(MINUS 5 6)
+(PPLUS 3 3)
+(IF/THEN/ELSE 3 2 1)
+(MINUS *5 4)
+(MINUS 1)
+(ADD 1)

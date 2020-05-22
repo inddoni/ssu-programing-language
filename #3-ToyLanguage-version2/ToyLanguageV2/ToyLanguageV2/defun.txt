@@ -1,0 +1,4 @@
+ADD (x y) (MINUS x (MINUS 0 y))
+NEG (x) (IF (MINUS 0 x) 1)
+IF/THEN/ELSE (x y z) (ADD (IF x y) (IF (MINUS 1 x) z))
+TIMES (x y) (IF/THEN/ELSE x (ADD y (TIMES (MINUS x 1) y)) 0)
